@@ -1,0 +1,2 @@
+Build from: https://github.com/numbqq/libamcodec/commit/46c42edb0db2ad163ac7d1d164c0b7d493c82d2d
+make -C amcodec HEADERS_DIR="/usr/include/amcodec" PREFIX="/usr" install
